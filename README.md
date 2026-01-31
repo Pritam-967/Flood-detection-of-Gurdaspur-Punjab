@@ -1,5 +1,3 @@
-# Flood-detection-of-Gurdaspur-Punjab
-Flood/water-change detection for Gurdaspur (Punjab) using Sentinel-2 NDWI (cloud-masked) and Sentinel-1 VV/VH change, comparing dry vs monsoon. Data downloaded via Copernicus/Sentinel Hub, processed in Python, mapped in ArcMap.
 
 ---
 
